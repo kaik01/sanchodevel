@@ -1,2 +1,0 @@
-# sanchodevel
-Created with CodeSandbox
